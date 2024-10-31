@@ -1,0 +1,3 @@
+[submodule "spider-api"]
+	path = spider-api
+	url = https://github.com/bee-tv/bee-tv-spider-api.git
